@@ -67,15 +67,15 @@ The training loss decreased from **0.4330** to **0.1149** during training.
 
 ### Training Performance
 
-![Training Performance](screenshots/training.JPG)
+![Training Performance](training.JPG)
 
 ### Classification Report
 
-![Classification Report](screenshots/classification.JPG)
+![Classification Report](classification.JPG)
 
 ### Confusion Matrix
 
-![Confusion Matrix](screenshots/confusion_matrix.JPG)
+![Model Comparison](comparison.JPG)
 
 ### Model Comparison
 
