@@ -149,7 +149,7 @@ The model achieved **94.50% test accuracy** and performed better than the Logist
 ## Student Details
 
 **Name:** Sakshi Walunj  
-**PRN No:** 202502110007
+**PRN No:** 202502110007  
 **Branch:** CSE (AI & ML)  
 **Batch:** A3
 
