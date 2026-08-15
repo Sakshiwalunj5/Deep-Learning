@@ -75,11 +75,11 @@ The training loss decreased from **0.4330** to **0.1149** during training.
 
 ### Confusion Matrix
 
-![Model Comparison](comparison.JPG)
+![Confusion Matrix](matrix.JPG)
 
 ### Model Comparison
 
-![Model Comparison](screenshots/model_comparison.JPG)
+![Model Comparison](comparison.JPG)
 
 ## Comparison with Logistic Regression
 
