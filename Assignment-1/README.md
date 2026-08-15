@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3550b399-78a6-482c-91bf-01c4fbcba73f" /># Practice Lab Assignment 1 - Neural Network Implementation from Scratch
+# Practice Lab Assignment 1 - Neural Network Implementation from Scratch
 
 ## Objective
 
