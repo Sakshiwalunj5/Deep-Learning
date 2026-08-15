@@ -233,9 +233,3 @@ The practical helped in understanding the main steps involved in training a neur
 **PRN No:** 202201040092  
 **Branch:** CSE (AI & ML)  
 **Batch:** A3
-
-## Declaration
-
-This practical was completed as part of the Deep Learning laboratory assignment.
-
-The neural network was implemented using NumPy to understand the working of forward propagation, backpropagation and gradient descent.
