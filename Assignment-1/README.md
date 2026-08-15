@@ -128,18 +128,16 @@ The MNIST dataset will be downloaded automatically when the dataset-loading cell
 ## Project Structure
 
 ```text
-Deep-Learning/
+GenAI/
 │
 ├── Assignment-1/
-│   ├── Practice_Lab_1_MNIST_From_Scratch.ipynb
-│   ├── README.md
-│   └── screenshots/
-│       ├── training.JPG
-│       ├── classification.JPG
-│       ├── confusion_matrix.JPG
-│       └── model_comparison.JPG
-│
-└── README.md
+   ├── README.md
+   ├── Sakshi_Walunj_GenerativeAILabAssignment.ipynb
+   ├── classification.JPG
+   ├── comparison.JPG
+   ├── matrix.JPG
+   └── training.JPG
+
 ```
 
 ## Conclusion
