@@ -1,4 +1,4 @@
-# Practice Lab Assignment 1 - Neural Network Implementation from Scratch
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3550b399-78a6-482c-91bf-01c4fbcba73f" /># Practice Lab Assignment 1 - Neural Network Implementation from Scratch
 
 ## Objective
 
@@ -153,4 +153,5 @@ The model achieved **94.50% test accuracy** and performed better than the Logist
 **Name:** Sakshi Walunj  
 **PRN No:** 202201040092  
 **Branch:** CSE (AI & ML)  
+**Batch:** A3
 
